@@ -1,0 +1,6 @@
+streamlit
+python-dateutil
+pytz
+numpy
+pandas
+sqlite3  # Python viene con sqlite3, pero a veces se incluye explícitamente
